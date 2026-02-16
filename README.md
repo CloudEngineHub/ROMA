@@ -33,7 +33,7 @@
 </p>
 <p align="center">
   <a href="https://www.sentient.xyz/blog/recursive-open-meta-agent">Technical Blog</a> •
-  <a href="docs/">Paper (Coming soon)</a> •
+  <a href="https://arxiv.org/abs/2602.01848">Paper</a> •
   <a href="https://www.sentient.xyz/">Build Agents for $$$</a>
 </p>
 
@@ -906,26 +906,14 @@ This framework would not have been possible if it wasn't for these amazing open-
 If you use the ROMA repo in your research, please cite:
 
 ```bibtex
-@software{al_zubi_2025_17052592,
-  author       = {Al-Zubi, Salah and
-                  Nama, Baran and
-                  Kaz, Arda and
-                  Oh, Sewoong},
-  title        = {SentientResearchAgent: A Hierarchical AI Agent
-                   Framework for Research and Analysis
-                  },
-  month        = sep,
-  year         = 2025,
-  publisher    = {Zenodo},
-  version      = {ROMA},
-  doi          = {10.5281/zenodo.17052592},
-  url          = {https://doi.org/10.5281/zenodo.17052592},
-  swhid        = {swh:1:dir:69cd1552103e0333dd0c39fc4f53cb03196017ce
-                   ;origin=https://doi.org/10.5281/zenodo.17052591;vi
-                   sit=swh:1:snp:f50bf99634f9876adb80c027361aec9dff97
-                   3433;anchor=swh:1:rel:afa7caa843ce1279f5b4b29b5d3d
-                   5e3fe85edc95;path=salzubi401-ROMA-b31c382
-                  },
+@misc{alzubi2026romarecursiveopenmetaagent,
+      title={ROMA: Recursive Open Meta-Agent Framework for Long-Horizon Multi-Agent Systems}, 
+      author={Salaheddin Alzu'bi and Baran Nama and Arda Kaz and Anushri Eswaran and Weiyuan Chen and Sarvesh Khetan and Rishab Bala and Tu Vu and Sewoong Oh},
+      year={2026},
+      eprint={2602.01848},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.01848}, 
 }
 ```
 
